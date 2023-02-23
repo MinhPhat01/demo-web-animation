@@ -1,0 +1,18 @@
+body {
+  overflow-x: hidden;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  min-height: 0;
+  min-width: 0;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+}
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
