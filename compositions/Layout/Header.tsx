@@ -78,6 +78,7 @@ const StyledMenuHamburger = styled(Box)(() => {
       width: "30px",
       margin: "6px",
       display: "block",
+
       backgroundColor: "#fff",
     },
   };
